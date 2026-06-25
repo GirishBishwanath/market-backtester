@@ -15,12 +15,14 @@ python backtester.py
 ```
 
 ## Sample output
-BUY  on 2020-04-30 @ $70.92  →  141.00 shares
-SELL on 2020-10-02 @ $109.63  →  $15,456.82 cash
-...
-Strategy Return: 69.08%
-Buy & Hold     : 163.19%
-Total Trades   : 21
+```
+  BUY  on 2020-04-30 @ $70.92  →  141.00 shares
+  SELL on 2020-10-02 @ $109.63  →  $15,456.82 cash
+  ...
+  Strategy Return: 69.08%
+  Buy & Hold     : 163.19%
+  Total Trades   : 21
+```
 
 ## Concepts implemented
 - **OHLC data**: Open, High, Low, Close daily price data
